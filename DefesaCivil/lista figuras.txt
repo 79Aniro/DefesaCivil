@@ -1,0 +1,28 @@
+Figura 05- Protótipo de tela- Cadastro de Nova Ocorrência.
+Figura 06- Protótipo de tela- Tela de criação de relatório.
+Figura 07- Protótipo de tela- Tela de Registros Fotográficos.
+Figura 08- Protótipo de tela- Tela de Criação de Relatório em formato PDF.
+Figura 09- Diagrama do modelo MVC.
+Figura 10- Diagrama do modelo MVC- Frontend.
+Figura 11- Modelo Lógico
+Figura 12- pom.xml
+Figura 13- Diagrama de Classes
+Figura 14- Estrutura arquivos aplicação mobile
+Figura 15 - EnderecoDTO
+Figura 16- Insere Relatório
+Figura 17 – Relatório Service 
+Figura 18 – Relação objeto/relacional
+Figura 19- DepartamentoRepository
+Figura 20- Busca de relatórios por funcionário
+Figura 21- OcorrenciaService - Insert
+Figura 22- Tabela Url_Foto
+Figura 23 UploadPicture –Função do front-end
+Figura 24 UploadPicture – Função do back-end
+Figura 25- Serviço Lista Ocorrências Abertas
+Figura 26- Serviço Lista Ocorrências Abertas
+Figura 27- Fluxograma Controle de Acesso
+Figura 28 – Resposta Login.
+Figura 29 –Senha Criptografada com BCrypt
+Figura 30 –Permissão de rotas.
+Figura 31 – Retorno de acesso negado.
+

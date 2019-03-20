@@ -1,0 +1,380 @@
+
+Águas da Prata	Leste
+Águas do Canindu Norte
+Alto da Ponte Norte
+Altos da Vila Paiva Norte
+Altos do Uirá Sudeste
+Araújo	Leste
+Bairrinho Leste
+Bairro Cajurú Leste
+Bairro dos Ferreiras Norte
+Bairro dos Pinheiros Centro
+Martins Guimarães Leste
+Mato Dentro Leste
+Serimbura Centro
+Banhado	Norte
+Beira Rio Oeste
+Bica d'Água Leste
+Bom Retiro Leste
+Bosque dos Eucaliptos Sul
+Bosque dos Ipês Sul
+Bosque Imperial Oeste
+Buquirinha Norte
+Caête Norte
+Cambucá Leste
+Campo dos Alemães Sul
+Campos de São José Leste
+Capão Grosso Leste
+Capão Grosso II	Leste
+Capitingal Sul
+Caramujo Sul
+Castanheira II Leste
+B_Central  Centro
+Chácara Boa Esperança	Leste
+Chácara Capão Grosso	Leste
+Chácara dos Eucaliptos Centro
+Chácara Majestic Leste
+Chácara Pousada do Vale	Leste
+Chácara Santa Luzia Leste
+Chácara São Vicente Leste
+Chácara Sítio Jataí Leste
+Chácaras Reunidas Sul
+Chácaras São José Sudeste
+Cidade Morumbi	Sul
+Cidade Vista Verde Leste
+Colinas do Parahyba Norte
+Condomínio Floresta Leste
+Conj. Hab. Dom Pedro I	Sul
+Conj. Hab. Dom Pedro II	Sul
+Conj. Hab. Elmano F. Veloso Sul
+Conj. Hab. Intervale Leste
+Conj. Hab. Polícia Militar Sudeste
+Conj. Hab. São Geraldo Norte
+Conj. Hab. São José Leste
+Conj. Hab. Vale dos Pinheiros Centro
+Conj. Hab. Vila Tatetuba Leste
+Conj. Integração Leste
+Conj. Res. 31 de Março	Sul
+Conj. Res. Cidade Jardim Sul
+Conj. Res. Jardim das Flores Leste
+Conj. Res. JK	Leste
+Conj. Res. Monte Castelo Centro
+Conj. Res. Morada do Sol Sul
+Conj. Res. Morumbi Sul
+Conj. Res. Nosso Teto Sudeste
+Conj. Res. Nova Cristina Norte
+Conj. Res. Papa João Paulo II Sul
+Conj. Res. Parque das Américas	Leste
+Conj. Res. Planalto	Leste
+Conj. Res. Primavera	Sul
+Conj. Res. Recanto dos Eucaliptos	Sul
+Conj. Res. Recanto dos Pinheiros	Sul
+Conj. Res. Sol Nascente	Sul
+Conj. São Judas Tadeu	Sudeste
+DCTA Sudeste
+Ebenezer Leste
+Espelho d'Água	Norte
+Eugênio de Melo Leste
+Favela Vila Nova Esperança Centro
+Favela Vila Rhodia Norte
+Fazenda Bom Retiro Leste
+Fazenda Honda	Leste
+Fazenda Jataí	Norte
+Fazenda Nossa Senhora da Conceição	Leste
+Fazenda Pilão Arcado	Leste
+Fazenda Taira	Leste
+Fazenda Takanashi Leste
+Fazenda Toninho Ferreira Leste
+Fazenda Vila Franca Leste
+Floradas de São José Sul
+Frei Galvão Leste
+Hawai	Norte
+Jaguariuna Norte/Oeste
+Jardim Aeroporto Sul
+Jardim Altos de Santana Norte
+Jardim Altos do Esplanada Oeste
+Jardim Alvorada Oeste
+Jardim América	Sul
+Jardim Americano Leste
+Jardim Anchieta Norte
+Jardim Anhembi Sul
+Jardim Aparecida Centro
+Jardim Apolo I	Centro
+Jardim Apolo II	Centro
+Residencial Jardim Aquarius Oeste
+Jardim Augusta	Centro
+Jardim Azevedo	Centro
+Jardim Bandeirantes	Centro
+Jardim Bela Vista	Centro
+Jardim Boa Vista	Norte
+Jardim Brasília	Leste
+Jardim Cassiano Ricardo Oeste
+Jardim Castanheiras Leste
+Jardim Cerejeiras Leste
+Jardim das Colinas Oeste
+Jardim Colonial	Sul
+Jardim Colorado	Sudeste
+Jardim Copacabana	Leste
+Jardim Coqueiro	Leste
+Jardim Corinthians	Centro
+Jardim Cruzeiro do Sul	Sul
+Jardim da Granja	Sudeste
+Jardim das Azaléias	Sul
+Jardim das Indústrias	Oeste
+Jardim das Paineiras I	Leste
+Jardim das Paineiras II	
+Jardim Del Rey	Sul
+Jardim Diamante	Leste
+Jardim do Céu	Sul
+Jardim do Lago	Sudeste
+Jardim dos Bandeirantes	Sul
+Jardim Esplanada	Centro
+Jardim Esplanada II	Centro
+Jardim Estoril	Sul
+Jardim Frei Leopoldo	Centro
+Jardim Guimarães	Norte
+Jardim Helena	Leste
+Jardim Imperial	Sul
+Jardim Ipê	Leste
+Jardim Ismênia	Leste
+Jardim Itapuã	Leste
+Jardim Jaci	Norte
+Jardim Juliana	Sul
+Jardim Jussara	Centro
+Jardim Madureira	Sul
+Jardim Maracanã	Leste
+Jardim Margareth	Centro
+Jardim Mariana	Leste
+Jardim Mariana II	Leste
+Jardim Maringá	Centro
+Jardim Maritéia	Norte
+Jardim Matarazzo	Centro
+Jardim Mesquita	Sul
+Jardim Motorama	Leste
+Jardim Nossa Senhora de Fátima	Centro
+Jardim Nova América	Centro
+Jardim Nova Detroit	Leste
+Jardim Nova Europa	Centro
+Jardim Nova Flórida	Leste
+Jardim Nova Michigan	Leste
+Jardim Nova Paulicéia	Norte
+Jardim Nova República	Sul
+Jardim Olímpia	Leste
+Jardim Oriental	Sul
+Jardim Oriente Sul
+Jardim Oswaldo Cruz	Centro
+Jardim Ouro Preto	Norte
+Jardim Paraíso	Sul
+Jardim Paraíso do Sol	Leste
+Jardim Pararangaba	Leste
+Jardim Paulista	Centro
+Jardim Petrópolis	Sul
+Jardim Pôr do Sol	Oeste
+Jardim Portugal	Sul
+Jardim Renata	Centro
+Jardim República	Sul
+Jardim Rosário	Sul
+Jardim San Rafael	Leste
+Jardim Santa Edwiges	Sul
+Jardim Santa Fé	Sudeste
+Jardim Santa Inês I	Leste
+Jardim Santa Inês II	Leste
+Jardim Santa Inês III	Leste
+Jardim Santa Julia	Sudeste
+Jardim Santa Lúcia	Leste
+Jardim Santa Luzia	Sudeste
+Jardim Santa Madalena	Centro
+Jardim Santa Maria	Leste
+Jardim Santa Matilde	Norte
+Jardim Santa Rosa	Sudeste
+Jardim Santo Onofre	Sudeste
+Jardim Santos Dumont	Centro
+Jardim São Dimas Centro
+Jardim São Jorge Leste
+Jardim São José	Leste
+Jardim São Judas Tadeu	Sudeste
+Jardim São Leopoldo	Sudeste
+Jardim São Vicente	Leste
+Jardim Satélite Sul
+Jardim Souto	Sudeste
+Jardim Sul	Sul
+Jardim Telespark	Norte
+Jardim Terras do S. Sul
+Jardim Topázio	Centro
+Jardim Três José Leste
+Jardim Uirá	Sudeste
+Jardim Universo	Leste
+Jardim Vale do Sol Sul
+Jardim Vale Paraíso	Centro
+Jardim Valparaíba	Leste
+Jardim Veneza	Sul
+Limoeiro	Oeste
+Mantiqueira I	Leste
+Mantiqueira II	Leste
+Maravilhas do Cajuru	Leste
+Miranda	Norte
+Mirante I	Leste
+Mirante II	Leste
+Monte Castelo	Centro
+Morada do Fênix	Leste
+Morada do Sol	Leste
+Nossa Senhora do Bom Retiro	Leste
+Nova Michigan II	Leste
+Nova Michigan III	Leste
+Nova Michigan IV	Leste
+Oliveiras	Norte
+Palmeiras de São José	Sul
+Parque dos Ipês	Sul
+Parque Independência	Sul
+Parque Industrial	Sul
+Parque Interlagos	Sul
+Parque Martim Cererê	Sudeste
+Parque Nova Esperança	Leste
+Parque Novo Horizonte Leste
+Parque Residencial Aquarius	Oeste
+Parque Residencial União	Sul
+Parque Santa Rita	Sudeste
+Parque Santos Dumont	Sudeste
+Pernambucana de Baixo	Sul
+Pernambucana de Cima	Sudeste
+Pinheirinho	Sul
+Portal do Céu	Leste
+Pousada do Vale Leste
+Primavera I	Leste
+Primavera II	Leste
+Projeto Torrão de Ouro	Sul
+Putim	Sudeste
+Quinta das Flores	Sul
+Recanto Caetê	Norte
+Recanto das Jabuticabeiras	Sudeste
+Recanto do Vale	Leste
+Recanto dos Eucaliptos	Sudeste
+Recanto dos Lagos	Leste
+Recanto dos Nobres	Sudeste
+Renascer I	Leste
+Renascer II	Leste
+Res. Altos do Bosque	Sul
+Res. Ana Maria	Leste
+Res. Armando Moreira Righi	Leste
+Res. Bell Park	Sudeste
+Res. Cambuí	Sudeste
+Res. da Ribeira	Leste
+Res. De Ville	Sul
+Res. Dom Bosco	Leste
+Res. Esplanada do Sol	Centro
+Res. Flamboyant	Sudeste
+Res. Galo Branco	Leste
+Res. Gazzo	Sul
+Res. Jardins	Sul
+Res. Jatobá	Sudeste
+Res. Juritis	Sudeste
+Res. Martins Pereira	Centro
+Res. San Marino	Sul
+Res. Santa Rosa	Sudeste
+Res. São Francisco	Sudeste
+Res. Sunset Park	Oeste
+Res. Vista Linda	Leste
+Ressaca	Leste
+Rhodia	Norte
+Rio Comprido	Sul
+Royal Park	Oeste
+Santa Cecília I	Leste
+Santa Cecília II	Leste
+Santa Helena	Leste
+Santa Hermínia	Leste
+Santa Maria I	Leste
+Santa Rita	Leste
+Santana	Norte
+São Francisco Xavier	Norte
+São Sebastião	Norte
+Serrote	Leste
+Sítio Bom Jesus	Sudeste
+Sítio Encantado	Leste
+Terra Nova	Leste
+Terrinha	Sul
+Torrão de Ouro	Sul
+Torrão de Ouro I	Sul
+Torrão de Ouro II	Sul
+Urbanova Oeste
+Vargem Grande	Norte
+Vila Abel	Centro
+Vila Adriana I	Sudeste
+Vila Adriana II	Sudeste
+Vila Ady'Ana	Centro
+Vila Alexandrina	Norte
+Vila Betânia	Centro
+Vila Cândida	Norte
+Vila Cardoso	Centro
+Vila César	Norte
+Vila Chiquinha	Norte
+Vila Cristina	Norte
+Vila das Acácias	Sul
+Vila Dirce	Norte
+Vila do Carmo	Norte
+Vila do Pena	Norte
+Vila Ema	Centro
+Vila Esmeralda	Norte
+Vila Ester	Leste
+Vila Guaianazes	Centro
+Vila Guarani	Centro
+Vila Higienópolis	Centro
+Vila Icaraí	Centro
+Vila Igualdade	Centro
+Vila Industrial	Leste
+Vila Ipiranga	Centro
+Vila Iracema	Sudeste
+Vila Jaci	Centro
+Vila Kennedy	Centro
+Vila Leila	Norte
+Vila Leila II	Norte
+Vila Leonídia	Norte
+Vila Letônia	Sul
+Vila Luchetti	Sul
+Vila Luzia	Centro
+Vila Machado	Norte
+Vila Maria	Centro
+Vila Mascarenhas Ferraz	Centro
+Vila Matilde	Leste
+Vila Monte Alegre	Norte
+Vila Monterrey	Leste
+Vila Nair	Sul
+Vila Nossa Senhora das Graças	Norte
+Vila Nova Conceição	Sul
+Vila Nova Guarani	Centro
+Vila Nova São José	Centro
+Vila Nove de Julho	Centro
+Vila Paganini	Centro
+Vila Paiva	Norte
+Vila Pasto Alto	Norte
+Vila Patrícia	Leste
+Vila Paulo Setúbal	Centro
+Vila Piratininga	Centro
+Vila Progresso	Centro
+Vila Rangel	Norte
+Vila Rica	Sudeste
+Vila Rossi	Norte
+Vila Rubi	Centro
+Vila Sanches	Centro
+Vila Santa Cruz I	Centro
+Vila Santa Cruz II	Centro
+Vila Santa Cruz III	Centro
+Vila Santa Helena	Centro
+Vila Santa Luzia	Centro
+Vila Santa Rita	Centro
+Vila Santarém	Norte
+Vila Santos	Centro
+Vila São Benedito	Sudeste
+Vila São Bento	Sul
+Vila São Geraldo	Norte
+Vila São Paulo	Centro
+Vila São Pedro	Centro
+Vila Simone	Norte
+Vila Sinhá	Norte
+Vila Tatetuba	Leste
+Vila Terezinha	Centro
+Vila Tesouro	Leste
+Vila Unidos	Norte
+Vila Veneziani	Norte
+Vila Zizinha	Norte
+Vilaggio d'Antonini	Leste
+Xingu	Sul

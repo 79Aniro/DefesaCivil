@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<title th:remove="all">Order Confirmation</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+	<div>
+		<h1>
+			Relatorio Numero: <span th:text="${relatorio.id}"> </span>
+		</h1>
+		<p>
+			Data Relatorio: <span
+				th:text="${#dates.format(relatorio.ocorrencia.dataAtendimento, 'dd/MM/yyyy')}"></span>
+		</p>
+		<p>
+			Solicitante: <span th:text="${relatorio.ocorrencia.solicitante.nome}"></span>
+		</p>
+
+		<h3>Fotos:</h3>
+		<table border="1">
+			<tr>
+				<th>Foto 1</th>
+				<th>Foto 2</th>
+				<th>Foto 3</th>
+				<th>Foto 4</th>
+			</tr>
+			<tr th:each="item : ${relatorio.urlFoto}">
+				<td th:img src="${https://s3-sa-east-1.amazonaws.com/projeto-defesacivil-sjc/relatorio/${relatorio.ocorrencia.id}-1.jpg}"></td>
+				
+			</tr>
+		</table>
+
+	</div>
+</body>
+</html>

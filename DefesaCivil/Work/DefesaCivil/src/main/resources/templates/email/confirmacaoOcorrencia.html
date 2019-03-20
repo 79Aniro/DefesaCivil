@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<title th:remove="all">Order Confirmation</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<style>
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+ <header>
+        <nav>
+          <div >
+
+          <center><img src="${logo}"  width="400" height="300"></center>  
+
+          </div>  
+
+        </nav>
+
+      </header>
+	<div>
+		<h2>
+			Relatorio ID: <span th:text="${ocorrencia.id}"> </span>
+		</h2>
+		
+	</div>
+</body>
+</html>

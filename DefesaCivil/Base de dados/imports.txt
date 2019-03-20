@@ -1,0 +1,16 @@
+npm install
+ionic cordova platform add browser --save
+ionic cordova platform add android --save
+
+ionic cordova plugin add cordova-plugin-file-opener2
+npm install --save @ionic-native/file-opener
+
+ionic cordova plugin add cordova-plugin-file
+npm install --save @ionic-native/file
+
+ionic cordova plugin add cordova-plugin-camera
+ npm install --save @ionic-native/camera
+
+npm i angular2-jwt
+
+ionic cordova plugin add cordova-plugin-file-transfer

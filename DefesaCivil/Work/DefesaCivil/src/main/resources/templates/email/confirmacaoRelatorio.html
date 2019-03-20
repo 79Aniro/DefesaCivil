@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<title th:remove="all">Order Confirmation</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<style>
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+ <header>
+        <nav>
+          <div >
+
+          <center><img src="${logo}"  width="400" height="300"></center>  
+
+          </div>  
+
+        </nav>
+
+      </header>
+	<div>
+		<h2>
+			Relatorio ID: <span th:text="${relatorio.id}"> </span>
+		</h2>
+		<table>
+		 <tr>
+    <th>Descrição</th>
+    <th>Valor</th>
+    
+  </tr>
+  
+  <tr>
+    <td>Ocorrencia</td>
+    <td th:text="${relatorio.ocorrencia.id}"></td>    
+  </tr>
+  <tr>
+    <td>Data Abertura</td>
+    <td th:text="${relatorio.ocorrencia.dataAbertura}"></td>    
+  </tr>
+  <tr>
+    <td>Rua</td>
+    <td th:text="${relatorio.rua}"></td>    
+  </tr>
+  <tr>
+    <td>Numero</td>
+    <td th:text="${relatorio.numeroLocal}"></td>    
+  </tr>
+  
+  <tr>
+    <td>Croqui</td>
+    <td th:text="${relatorio.croqui}"></td>    
+  </tr>
+  <tr>
+    <td>Observação</td>
+    <td th:text="${relatorio.observacao}"></td>    
+  </tr>
+  <tr>
+    <td>Pessoas Atingidas</td>
+    <td th:text="${relatorio.pessoasAtingidas}"></td>    
+  </tr>
+  <tr>
+    <td>Feridos Leves</td>
+    <td th:text="${relatorio.feridosLeves}"></td>    
+  </tr>
+  <tr>
+    <td>Óbitos</td>
+    <td th:text="${relatorio.obitos}"></td>    
+  </tr>
+  <tr>
+    <td>laje</td>
+    <td th:text="${relatorio.laje}"></td>    
+  </tr>
+  <tr>
+    <td>piso</td>
+    <td th:text="${relatorio.piso}"></td>    
+  </tr>
+  <tr>
+    <td>declividade</td>
+    <td th:text="${relatorio.declividade}"></td>    
+  </tr>
+  <tr>
+    <td>Talude Natural Altura</td>
+    <td th:text="${relatorio.taludeNaturalAltura}"></td>    
+  </tr>
+  <tr>
+    <td>Aterro</td>
+    <td th:text="${relatorio.aterro}"></td>    
+  </tr>
+  <tr>
+    <td>Funcionario</td>
+    <td th:text="${relatorio.funcionario.nome}"></td>    
+  </tr>
+   
+  
+		</table>
+	</div>
+</body>
+</html>
