@@ -16,6 +16,7 @@ Figura 19- DepartamentoRepository
 Figura 20- Busca de relatórios por funcionário
 Figura 21- OcorrenciaService - Insert
 Figura 22- Tabela Url_Foto
+
 Figura 23 UploadPicture –Função do front-end
 Figura 24 UploadPicture – Função do back-end
 Figura 25- Serviço Lista Ocorrências Abertas
